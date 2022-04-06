@@ -409,6 +409,7 @@ body.dark-theme {
 
 .filters__active[data-content] {
   display: flex;
+  justify-content: center;
 }
 
 /* Activate button filter */
